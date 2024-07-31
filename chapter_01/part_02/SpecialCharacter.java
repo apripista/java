@@ -1,3 +1,5 @@
+package chapter_01.part_02;
+
 // SPECIAL CHARACTER IN JAVA
 
 /*
