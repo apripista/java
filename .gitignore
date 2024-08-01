@@ -1,0 +1,37 @@
+# Ignore binary files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+/.vscode/
+/.idea/
+/*.iml
+
+# Ignore build directories
+/bin/
+/build/
+/target/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore node_modules directory (if using Node.js)
+node_modules/
+
+# Ignore PDF and other large files
+*.pdf
