@@ -20,7 +20,7 @@ for (initialization; condition; increment/decrement) {
 */
 
 // EXAMPLE
-public class For_loops {
+public class ForLoop {
     public static void main(String[] args){
         for (int number = 0; number <=20; number++){
             System.out.println(number); // repeate a number
