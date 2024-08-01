@@ -37,7 +37,6 @@ This part of the project contains simple Java programs that introduce basic conc
 
     javac *.java arrays/*.java controlstatements/*.java loops/*.java
 
-  ```
 
 Run any of the compiled programs using the java command. For example, to run Main.java, use:
 
