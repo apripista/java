@@ -13,7 +13,7 @@ If the condition is false initially, the code block will never execute.
 
 */
 
-public class While{
+public class WhileLoop{
     public static void main(String[] args){
         System.out.println("WHILE LOOPS IN JAVA");
         System.out.println("");
