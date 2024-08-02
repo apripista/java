@@ -50,3 +50,13 @@ public class SpecialCharacter {
         System.out.println("+------------------+--------------------------+");
     }
 }
+
+/*
+Java uses a special notation to represent special characters, as
+shown in the table above. This special notation, called an escape sequence, consists of a backslash
+(\) followed by a character or a combination of digits. For example, \t is an escape sequence
+for the Tab character and an escape sequence such as \u03b1 is used to represent a Unicode.
+The symbols in an escape sequence are interpreted as a whole rather than individually. An
+escape sequence is considered as a single character.
+
+ */
