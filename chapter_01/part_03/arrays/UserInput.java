@@ -2,7 +2,7 @@
  * JAVA ARRAYS AND USER INPUTS
  */
 
-package chapter_01.part_03.arrays;
+package arrays;
 
 import java.util.Scanner;
 
