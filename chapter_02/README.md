@@ -36,7 +36,7 @@ In summary, methods play a crucial role in Java programming by promoting modular
 3. [ParametersAndArguments.java](ParametersAndArguments.java): Parameters and Arguments in Java.
 4. [ControlStatementInMEthods.java](ControlStatementInMEthods.java): Control statements in Methods in Java.
 5. [MethodOverloading.java](MethodOverloading.java): Methods Overloading in Java.
-6. [JavaScope.java](Scope.java): Variable Scope in Java.
+6. [JavaScope.java](JavaScope.java): Variable Scope in Java.
 7. [MethodReturnTye.java](MethodReturnTye.java): Return Values in Java.
 8. [MethodRecursion.java](MethodRecursion): Directory for `Recursion` In java.
 

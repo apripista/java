@@ -19,13 +19,16 @@ This part of the project contains simple Java programs that introduce basic conc
 
 ### Control Statements Directory
 9. **[ControlStatementI.java](controlstatements/ControlStatementI.java)**: Covers switch-case, and other basic control statements.
-10. **[ControlStatementII.java](controlstatements/ControlStatementII.java)**: Continues from ControlStatementI.java, covering more advanced control statements like if-statememts and else-if statememts.
+10. **[ControlStatementII.java](controlstatements/ControlStatementII.java)**: Continues from ControlStatementI.java, covering more advanced control statements like if-statements and else-if statements.
 
 ### Loops Directory
 11. **[ForLoop.java](loops/ForLoop.java)**: Contains examples and explanations of for loops.
 12. **[WhileLoop.java](loops/WhileLoop.java)**: Contains examples and explanations of while loops.
-
-13. **[BreakContinue.java](BreakContinue.java)**: Demonstrates the use of break and continue statements in loops.
+13. **[BreakContinue.java](loops/BreakContinue.java)**: Demonstrates the use of break and continue statements in loops.
+14. **[ForLoopsAdvancedConcepts.java](loops/ForLoopsAdvancedConcepts.java)**: Discusses advanced concepts related to for loops.
+15. **[LoopDesignStrategies.java](loops/LoopDesignStrategies.java)**: Explains strategies for designing effective loops.
+16. **[SentinelAndInputRedirection.java](loops/SentinelAndInputRedirection.java)**: Focuses on sentinel values and input/output redirection in loops.
+17. **[WhileLoopAdvanced.java](loops/WhileLoopAdvanced.java)**: Covers advanced topics related to while loops.
 
 ## How to Run
 
