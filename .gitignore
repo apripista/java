@@ -26,12 +26,5 @@ Thumbs.db
 *.temp
 *.swp
 
-# Ignore compiled Python files
-*.pyc
-__pycache__/
-
-# Ignore node_modules directory (if using Node.js)
-node_modules/
-
 # Ignore PDF and other large files
 *.pdf
