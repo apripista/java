@@ -1,5 +1,5 @@
 
-package chapter_01.part_03.arrays;
+package arrays;
 
 public class ArrayCopyExample {
     public static void main(String[] args) {
