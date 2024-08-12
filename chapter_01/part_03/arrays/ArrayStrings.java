@@ -1,4 +1,4 @@
-package chapter_01.part_03.arrays;
+package arrays;
 
 /*
 The import statement import java.util.Arrays; is necessary to bring the Arrays class into your program's scope.
