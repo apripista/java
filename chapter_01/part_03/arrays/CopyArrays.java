@@ -32,7 +32,7 @@
  *    This indicates that the elements from the source array have been successfully copied to the target array.
  */
 
- package chapter_01.part_03.arrays;
+ package arrays;
 
  public class CopyArrays {
  
