@@ -1,4 +1,4 @@
-package chapter_01.part_03.arrays;
+package arrays;
 
 // ARRAY IN JAVA.
 /*
