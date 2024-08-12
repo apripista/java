@@ -3,7 +3,7 @@ package DanielLiang.FundamentalOfProgramming.IntroductionToComputerProgramsAndJa
 public class AverageSpeedInKilometers {
 
     public static void main(String[] args) {
-        // constant 
+        // constant variable
         double distance = 14;
         double time = 45 + 30/60.0;
 
