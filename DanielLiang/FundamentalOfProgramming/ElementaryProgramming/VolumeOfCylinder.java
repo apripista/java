@@ -7,7 +7,7 @@ public class VolumeOfCylinder {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // constant.
+        // constant  variable
         final double PI = 3.14159;
 
         // user prompt.
