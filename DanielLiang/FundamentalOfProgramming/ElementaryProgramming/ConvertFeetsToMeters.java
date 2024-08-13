@@ -11,7 +11,7 @@ public class ConvertFeetsToMeters {
             System.out.print("\tEnter a Value for feet: ");
             double feets = input.nextDouble();
 
-            // Scanner object closed
+            // close a scanner object
             input.close();
             // calculation
             double meters = feets * 0.305;
