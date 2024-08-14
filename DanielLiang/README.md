@@ -10,4 +10,4 @@ All solved questions are from the book mentioned above.
 4. **[Part IV: Data Structures and Algorithms (Chapters 18–29 and Bonus Chapters 40–41)](./DataStructureAlgorith/)**: Data Structures and Algorithms implementations.
 
 ### follow the order
-Since this is for beginners, We recommend youto follow the order, thanks.
+Since this is for beginners, We recommend you to follow the order, thanks.
