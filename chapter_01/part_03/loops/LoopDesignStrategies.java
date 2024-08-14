@@ -12,7 +12,7 @@ Example: A program that repeatedly asks a user to guess a number between 1 and 1
 
 import java.util.Scanner;
 
-public class LooopDesignStrategies{
+public class LoopDesignStrategies{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int targetNumber = 7; // The number to be guessed
