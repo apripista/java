@@ -12,7 +12,7 @@ This part of the project focuses on Java loops and control structures. It covers
 4. **[While Loop Advanced](WhileLoopAdvanced.java)**: Discusses advanced topics related to `while` loops.
 5. **[Break Continue](BreakContinue.java)**: Demonstrates the use of `break` and `continue` statements within loops.
 6. **[Sentinel And Input Redirection](SentinelAndInputRedirection.java)**: Explores the use of sentinel values and input redirection in loops.
-7. **[Looop Design Strategies](LooopDesignStrategies.java)**: Provides insights into effective loop design strategies.
+7. **[Loop Design Strategies](LooopDesignStrategies.java)**: Provides insights into effective loop design strategies.
 
 ## How to Run
 
