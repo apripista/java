@@ -1,7 +1,8 @@
 /*
-5.2.2 Loop Design Strategies
+Loop Design Strategies
 
-Writing a correct loop is a critical skill in programming. Consider these three steps when designing a loop:
+Writing a correct loop is a critical skill in programming.
+Consider these three steps when designing a loop:
 
 Step 1: Identify the statements that need to be repeated.
 Step 2: Wrap these statements in a loop structure.
