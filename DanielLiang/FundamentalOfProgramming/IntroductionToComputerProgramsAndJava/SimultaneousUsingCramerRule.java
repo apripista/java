@@ -12,7 +12,7 @@ public class SimultaneousUsingCramerRule {
 
         System.out.println("\n\tsimultaneouls Equation using Cramer's rule.\n");
 
-        // expression
+        // simlitaneous expression
         System.out.println("Equation is: ");
         System.out.println("3.4x + 50.2y = 44.5");
         System.out.println("2.1x + 0.55y = 5.9");
