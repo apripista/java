@@ -25,6 +25,3 @@ Thumbs.db
 *.tmp
 *.temp
 *.swp
-
-# Ignore PDF and other large files
-*.pdf
