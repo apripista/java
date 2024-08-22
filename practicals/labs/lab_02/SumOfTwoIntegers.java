@@ -4,7 +4,8 @@ public class SumOfTwoIntegers {
 
     public static void main(String[] args) {
 
-        double numberone = 56.7, numbertwo = 43.948; // variable declaration
+        // variable declaration
+        double numberone = 56.7, numbertwo = 43.948;
         double sum = numberone + numbertwo; // calculations
 
         // output
