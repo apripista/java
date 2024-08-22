@@ -10,4 +10,4 @@ This repository contains Java programs for the Practical Lab session 02.
 4. [**BiggestNumbers.java**](BiggestNumbers.java): A Java program that inputs three integers from the keyboard and prints the sum, average, product, and the biggest number of these numbers.
 5. [**AreaOfCircle.java**](AreaOfCircle.java): A Java program that asks the user to enter the radius of a circle, calculates the area, and outputs the result.
 
-## [`Lab Programming Questions.pdf`](LabProgrammingQuestions.pdf):PDF document containing programming questions for lab_02 exercises
+## [`Lab Programming Questions`](/practicals/labs/lab_02/LabProgrammingQuestions.pdf):PDF document containing programming questions for lab_02 exercises
