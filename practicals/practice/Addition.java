@@ -5,7 +5,8 @@ public class Addition {
     public static void main(String[] args) {
         // Create a Scanner object to read user input
         try (Scanner input = new Scanner(System.in)) {
-            // Continuously generate addition questions until the user provides the correct answer
+            // Continuously generate addition questions
+            // until the user provides the correct answer
             while (true) {
                 // Generate two random numbers for the addition question
                 int firstNumber = (int) (Math.random() * 10);
