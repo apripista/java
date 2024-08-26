@@ -14,17 +14,17 @@ This repository contains a collection of Java programs that demonstrate various 
 8. [FutureTuition.java](FutureTuition.java): A program to calculate future tuition fees.
 9. [GCD.java](GCD.java): A program to calculate the Greatest Common Divisor (GCD) of two numbers.
 10. [GCDMethod.java](GCDMethod.java): A program to calculate the GCD of two numbers using a method.
-11. [Geometry.java](Geometry.java): A program to calculate the area of geometric shapes.
+11. [MethodOverloadingCircelArea.java](MethodOverloadingCircelArea.java): A program to calculate the area of geometric shapes.
 12. [GuessNumber.java](GuessNumber.java): A program to guess a randomly generated number.
 13. [LeapYear.java](LeapYear.java): A program to check if a year is a leap year.
 14. [MultiplicationTable.java](MultiplicationTable.java): A program to display a multiplication table.
 15. [NaturalNumber.java](NaturalNumber.java): A program to find even, odd, or prime numbers in a range.
 16. [NthTermsInArithmenticSequences.java](NthTermsInArithmenticSequences.java):
 17. [PascalTriangle.java](PascalTriangle.java): A program to generate Pascal's triangle.
-18. [Prime.java](Prime.java): A program to find prime numbers in a range.
+18. [PrimeNumberFinder.java](PrimeNumberFinder.java): A program to find prime numbers in a range.
 19. [Quadratic.java](Quadratic.java): A program to solve quadratic equations.
 20. [RandomCharacters.java](RandomCharacters.java): Random Character integers, letters and special characters.
-21. [RepeatAdditionQuiz.java](RepeatAdditionQuiz.java): A program to quiz the user on addition.
+21. [Addition.java](Addition.java): A program to quiz the user on addition.
 22. [Sentinel.java](Sentinel.java): A program to sum numbers entered by the user until a sentinel value is entered.
 23. [SimpleInterestCalculator.java](SimpleInterestCalculator.java): A program to calculate simple interest.
 24. [Subtraction.java](Subtraction.java): A program to quiz the user on subtraction.
