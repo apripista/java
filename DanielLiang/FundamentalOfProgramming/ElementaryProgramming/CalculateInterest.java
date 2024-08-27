@@ -12,7 +12,8 @@ public class CalculateInterest {
         double balance = input.nextDouble();
         double annualInterestRate = input.nextDouble();
 
-        // Close the Scanner object to avoid resource leak
+        // Close the Scanner object 
+        // to avoid resource leak
         input.close();
 
         // Calculate the interest for the next month
