@@ -6,6 +6,7 @@ public class CompoundValue {
 
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
+            // scanner object and user input
             System.out.print("Enter the monthly saving amount: ");
             double monthlySavingAmount = input.nextDouble();
 
