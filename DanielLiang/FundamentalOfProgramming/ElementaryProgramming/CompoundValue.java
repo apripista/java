@@ -20,7 +20,7 @@ public class CompoundValue {
             double month5 = (monthlySavingAmount + month4) * (1 + monthlyInterestRate);
             double month6 = (monthlySavingAmount + month5) * (1 + monthlyInterestRate);
 
-            // Display the account value after the sixth month
+            // Display the account value after the sixth months
             System.out.println("After the sixth month, the account value is $" + month6);
         
         } catch (Exception e) {
