@@ -18,7 +18,7 @@ public class Acceleration {
             System.out.print("\tTime taken: ");
             double time = input.nextDouble();
 
-            // acceleration calculations
+            // calculate acceleration
             double acceleration = (final_velocity - initial_velocity) / time;
             System.out.println("\nAcceletation is: " + String.format("%.4f",acceleration) + "m/s^2");
         }catch(Exception e){
