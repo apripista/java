@@ -48,11 +48,3 @@ To use these programs, simply download the Java files and compile them using a J
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](../../../LICENSE) file for details.
-
-
-
-# NATAKIWA KUBADILISHA HAYA
-1 AREA OF THE CYLINDER  AMBAYOU NI 2.2 NIMEIWEKA IWE NI 2.22
-INAPASWA KUWA NI 2.2
-
-2. NUMBER OF YEARS AMBAYO NI 2.7 SIJAIANDIKA INAONEKANA HIHYO. NITAIBADILISHA NI FROM LISTINGS
