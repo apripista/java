@@ -6,8 +6,10 @@ public class AreaOfHexagon {
 
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
+            // user inputs 
             System.out.print("Enter the  side: ");
 
+            // calculations
             double side = input.nextDouble();
             double area = 6 * side * side /(4 *(Math.tan(Math.PI/6)));
 
