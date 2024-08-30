@@ -27,6 +27,7 @@ public class ArithmeticUserInput {
             System.out.println("Remender is: " + reminder);
         
         } catch (Exception e) {
+            //catch any error
             System.out.println("an error occured" + e);
         }
 
