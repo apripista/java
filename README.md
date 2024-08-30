@@ -8,12 +8,12 @@ Thanks for understanding.
 
 ## Learning Paths
 
-1. **[Chapter 01: Introduction](chapter_01)**
+1. **[Chapter 01: Introduction to Java Programming](chapter_01)**
    - **[part one](chapter_01/part_01)**: Introduction to Java programming language.
    - **[part two](chapter_01/part_02)**: Variables, operators, Strings, and mathematical operations.
    - **[part three](chapter_01/part_03)**: Control statements, loops, and arrays.
 
-2. **[Chapter 02: Methods in Java](chapter_02)**
+2. **[Chapter 02: Methods in Java Programming](chapter_02)**
 
    - Introduction to methods in Java.
    - Explanation of method declaration and invocation.
@@ -21,6 +21,12 @@ Thanks for understanding.
    - Method overloading and overriding.
    - Examples demonstrating the usage of methods in Java programs.
 
+2. **[Chapter 03: Introduction to Object Oriented Programming](chapter_02)**
+   - Introduction to Objects and Classes in Java.
+   - Introduction to Inheritance and Polymorphism in Java.
+   - Exception Handling and Text I/O in Java
+   - Abstract Classes and Interfaces in Java
+   
 ## Usage
 
 Feel free to explore the directories and files according to your learning needs. Each section contains code examples and explanations to help you understand different concepts in Java programming.
