@@ -21,7 +21,7 @@ Thanks for understanding.
    - Method overloading and overriding.
    - Examples demonstrating the usage of methods in Java programs.
 
-2. **[Chapter 03: Introduction to Object Oriented Programming](chapter_02)**
+2. **[Chapter 03: Introduction to Object Oriented Programming](chapter_03)**
    - Introduction to Objects and Classes in Java.
    - Introduction to Inheritance and Polymorphism in Java.
    - Exception Handling and Text I/O in Java
@@ -55,6 +55,6 @@ Replace `Filename.java` with the name of the Java file you want to execute.
 
 ## Contributing
 
-If you find any issues or want to contribute by adding more other concepts and examples to this repository, please feel free to submit a pull request or open an issue. Remember to read [CONTRIBUTING   GUIDELINES](../CONTRIBUTING.md) and [CODE OF CONDUCT](../CODE_OF_CONDUCT.md) files before contributing.
+If you find any issues or want to contribute by adding more other concepts and examples to this repository, please feel free to submit a pull request or open an issue. Remember to read [CONTRIBUTING   GUIDELINES](../CONTRIBUTING.md) and [CODE OF CONDUCT](../CODE_OF_CONDUCT.md) before contributing.
 
-Happy coding!
+_Happy coding! :)_
