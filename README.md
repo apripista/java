@@ -21,7 +21,7 @@ Thanks for understanding.
    - Method overloading and overriding.
    - Examples demonstrating the usage of methods in Java programs.
 
-2. **[Chapter 03: Introduction to Object Oriented Programming](chapter_02)**
+2. **[Chapter 03: Introduction to Object Oriented Programming](chapter_03)**
    - Introduction to Objects and Classes in Java.
    - Introduction to Inheritance and Polymorphism in Java.
    - Exception Handling and Text I/O in Java

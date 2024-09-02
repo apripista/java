@@ -31,7 +31,7 @@ The programs in this repository cover topics such as:
 
 18. [4.18: Student Major Status](StudentMajorStatus.java): Determines a student's major and academic status based on their input.
 19. [4.19: Check ISBN10](CheckISBN10.java): Verifies the validity of an ISBN-10 code (from Exercise 3.9).
-20. [4.10: Process Strings](ProcessStrings.java): Computes the length of a string and extracts its first letter.
+20. [4.20: Process Strings](ProcessStrings.java): Computes the length of a string and extracts its first letter.
 21. [4.21: Check SSN](CheckSSN.java): Validates a Social Security Number (SSN).
 22. [4.22: Check Substrings](CheckSubStrings.java): Identifies and checks for the presence of a substring within a string.
 23. [4.23: Payroll](Payroll.java): A simple program to calculate payroll based on user inputs.
