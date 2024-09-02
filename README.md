@@ -55,6 +55,6 @@ Replace `Filename.java` with the name of the Java file you want to execute.
 
 ## Contributing
 
-If you find any issues or want to contribute by adding more other concepts and examples to this repository, please feel free to submit a pull request or open an issue. Remember to read [CONTRIBUTING   GUIDELINES](../CONTRIBUTING.md) and [CODE OF CONDUCT](../CODE_OF_CONDUCT.md) files before contributing.
+If you find any issues or want to contribute by adding more other concepts and examples to this repository, please feel free to submit a pull request or open an issue. Remember to read [CONTRIBUTING   GUIDELINES](CONTRIBUTING.md) and [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before contributing.
 
-Happy coding!
+_Happy coding! :)_
