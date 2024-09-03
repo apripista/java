@@ -1,6 +1,8 @@
-# Chapter IV: Mathematical Functions, Characters and Strings
+# Fundamentals of Programming
 
-## introduction
+## Chapter IV: Mathematical Functions, Characters and Strings
+
+### Programming Exercises
 
 This repository contains a collection of Java programs covering Mathematical functions, character functions and different string manipulations techniques
 
@@ -9,8 +11,6 @@ The programs in this repository cover topics such as:
     - Mathematical Functions like trigonometric, expenential.
     - Character functions and their use
     - String manipulation tricks
-
-## Java Programs
 
 1. [4.1: Area of Pentagon](AreaOfPentagon.java): Calculates the area of a pentagon based on the radius from the center to a vertex provided by the user.
 2. [4.2: Great Circle Distance](GreatCircleDistance.java): Computes the great circle distance between two points on the Earth.
@@ -35,7 +35,7 @@ The programs in this repository cover topics such as:
 21. [4.21: Check SSN](CheckSSN.java): Validates a Social Security Number (SSN).
 22. [4.22: Check Substrings](CheckSubStrings.java): Identifies and checks for the presence of a substring within a string.
 23. [4.23: Payroll](Payroll.java): A simple program to calculate payroll based on user inputs.
-24. [4.26: Order Three Cities](OrderThreeCities.java): Sorts three cities entered by the user in alphabetical order.
+24. [4.24: Order Three Cities](OrderThreeCities.java): Sorts three cities entered by the user in alphabetical order.
 25. [4.25: Vehicle Plate Number Generator](VehiclePlateNumberGenerator.java): Generates random vehicle plate numbers.
 26. [4.26: Compute Change](ComputeChange.java): A program to compute change, as presented in Listing 2.10.
 
