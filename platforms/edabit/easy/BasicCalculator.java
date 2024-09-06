@@ -1,5 +1,6 @@
 public class BasicCalculator {
     public static int calculator(int num1, char operator, int num2) {
+
         // Handle division by zero
         if (operator == '/' && num2 == 0) {
             return 0;
