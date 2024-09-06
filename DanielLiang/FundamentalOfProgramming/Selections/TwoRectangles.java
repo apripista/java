@@ -26,8 +26,7 @@ public class TwoRectangles {
                     (r1y + r1Height / 2 > r2y - r2Height))
                 System.out.println("r2 overlaps r1");
             else
-                System.out.println("r2 does not overlap r1");
-        
+                System.out.println("r2 does not overlap r1"); 
         }catch (Exception e) {
             System.err.println("An error Occurred" + e);
         }
