@@ -1,5 +1,3 @@
-package platforms.edabit.medium;
-
 public class BasicOperation {
     public static int operation(String a, String b, String op) {
       // Convert strings to integers
