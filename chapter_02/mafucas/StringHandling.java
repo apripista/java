@@ -62,7 +62,8 @@ public class StringHandling {
         String substring2 = message.substring(11); // "Java"
         
         System.out.println(substring1 + "HTML"); // "Welcome to HTML"
-        
+        System.out.println(substring2 + "Java"); // "Welcome to HTML"
+
         // 5. Finding Characters or Substrings
         // Explanation:
         // Uses indexOf() and lastIndexOf() to find positions of characters or substrings.
