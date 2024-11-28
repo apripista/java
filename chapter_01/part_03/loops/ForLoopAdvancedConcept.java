@@ -14,10 +14,12 @@ public class ForLoopAdvancedConcept{
         System.out.println("");
 
         /*
+        
         The for loop is a control flow statement that allows you to repeat a block of code
         a specific number of times. It consists of three main parts: initialization, condition,
         and iteration action. These parts are enclosed within parentheses and are separated
         by semicolons.
+        
         */
 
         // Initializing the control variable i to 0, setting the loop condition to i < 100,
