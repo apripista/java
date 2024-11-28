@@ -85,11 +85,11 @@ public class Character {
         throw new UnsupportedOperationException("Unimplemented method 'isLetter'");
     }
 
-    public static String toLowerCase(char c) {
+    public static char toLowerCase(char c) {
         throw new UnsupportedOperationException("Unimplemented method 'toLowerCase'");
     }
 
-    public static String isUpperCase(char c) {
+    public static boolean isUpperCase(char c) {
         throw new UnsupportedOperationException("Unimplemented method 'isUpperCase'");
     }
 

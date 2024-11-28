@@ -11,6 +11,7 @@ public class IntegerReversed {
 
         System.out.print("reversed number is:   ");
         reverser(number);
+        input.close();
     }
 
     public static void reverser(int number){
